@@ -12,3 +12,6 @@
 ## Usage:
 
 Replace webtemplate file in resources folder of Solar2D.
+
+## Sponsor this project
+- Gift me a coffee cup: [Kofi](https://www.ko-fi.com/kandev)
