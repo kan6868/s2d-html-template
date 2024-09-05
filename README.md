@@ -8,3 +8,7 @@
   - Some differences:
     * Override default screen size with full browser size.
     * Full-screen display with mobile devices.
+
+## Usage:
+
+Replace webtemplate file in resources folder of Solar2D.
