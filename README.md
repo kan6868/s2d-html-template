@@ -10,6 +10,12 @@
     * Full-screen display with mobile devices.
 
 ## BOX2D V3
+
+### Need using Solar2D from Labo Lado
+
+Build from:
+https://github.com/labolado/corona/releases
+
 ### Changes compared to box2d v2:
 #### Post collision replace by hit collision
 ```lua
@@ -61,11 +67,6 @@ physics.addBody(object, "dynamic", {capsule = {x1 = 0, y1 = -16, x2 = 0, y2 = 16
 -- more detail
 --https://box2d.org/documentation/group__geometry.html#structb2_capsule 
 ```
-
-Build from:
-
-https://github.com/labolado/corona/releases
-
 ## Usage:
 
 Replace webtemplate file in resources folder of Solar2D.
